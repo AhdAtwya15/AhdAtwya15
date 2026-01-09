@@ -15,7 +15,7 @@ Currently seeking full-time, part-time, internship, or freelance opportunities.
 ## 🏫 Education
 **Bachelor of Computer Science**  
 Faculty of Computers and Informatics  
-(Expected Graduation: 2026)
+(Graduation year: 2025)
 
 ---
 
