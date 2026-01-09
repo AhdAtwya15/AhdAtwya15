@@ -1,5 +1,5 @@
-# Ahd Atwya 👋
-🎯 Frontend Developer | React.js | Next.js | TypeScript | Tailwind CSS
+# Hi , I'm Ahd Atwya 👋
+ Frontend Developer | React.js | Next.js | TypeScript | Tailwind CSS
 
 ## 💻 About Me
 
