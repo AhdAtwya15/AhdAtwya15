@@ -1,6 +1,8 @@
 # Ahd Atwya 👋
+🎯 Frontend Developer | React.js | Next.js | TypeScript | Tailwind CSS
 
 ## 💻 About Me
+
 Computer Science Graduate | Frontend Developer  
 Passionate about building responsive web applications with React, Next.js, and TypeScript.  
 Currently seeking full-time, part-time, internship, or freelance opportunities.  
