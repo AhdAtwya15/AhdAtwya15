@@ -7,7 +7,7 @@ Computer Science Graduate | Frontend Developer
 Passionate about building responsive web applications with React, Next.js, and TypeScript.  
 Currently seeking full-time, part-time, internship, or freelance opportunities.  
 
-📄 [Download CV](https://drive.google.com/file/d/1fXJE9Pf1HEG43v0AZWxhxMQU8XMudPj0/view?usp=sharing)  
+📄 [Download CV]([https://drive.google.com/file/d/1fXJE9Pf1HEG43v0AZWxhxMQU8XMudPj0/view?usp=sharing](https://drive.google.com/file/d/104_p0MaP1pWqaUR1J3D4If7WAScd2R9K/view?usp=drive_link))  
 🌐 [LinkedIn](https://www.linkedin.com/in/ahd-atwya-a46766228/)
 
 ---
